@@ -1,4 +1,4 @@
-```md
+
 # ML — Machine Learning Course Notebooks 📒🤖
 
 This repo contains my **Machine Learning** practice notebooks and exercises, organized by course section (numbered folders).
@@ -52,4 +52,4 @@ This repo contains my **Machine Learning** practice notebooks and exercises, org
 - Notebooks may expect dataset files in the same folder or a local `data/` directory.
 
 ---
-```
+
