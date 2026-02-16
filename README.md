@@ -47,7 +47,7 @@ This repo contains my **Machine Learning** practice notebooks and exercises, org
 ---
 
 ## Notes
-- Folders are numbered to match the course order.
+- Folders are not numbered to match the course order; they are alphabetically ordered.
 - **Datasets are not included** in this repository.
 - Notebooks may expect dataset files in the same folder or a local `data/` directory.
 
