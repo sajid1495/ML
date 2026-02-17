@@ -47,9 +47,21 @@ This repo contains my **Machine Learning** practice notebooks and exercises, org
 ---
 
 ## Notes
-- Folders are not numbered to match the course order; they are alphabetically ordered.
-- **Datasets are not included** in this repository.
-- Notebooks may expect dataset files in the same folder or a local `data/` directory.
+
+- Folders are numbered to match the course order.
+- **Datasets are not included** in this repository due to course distribution restrictions.
+- All notebooks were developed and executed using **Google Colab**.
+
+### Dataset Instructions
+
+If you are running the notebooks in **Google Colab**:
+
+- You must manually upload the required dataset file before running the notebook.
+- Most notebooks expect the dataset file to be uploaded into the current Colab working directory.
+
+Since the datasets were provided as part of the course materials, they are not publicly shared in this repository.
+
+If you need any specific dataset used in these notebooks, please feel free to contact me directly.
 
 ---
 
